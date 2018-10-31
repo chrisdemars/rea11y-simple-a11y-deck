@@ -1589,3 +1589,8 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+
+  .fab {
+    margin-right: 5px;
+  }
