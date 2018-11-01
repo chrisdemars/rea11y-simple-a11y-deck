@@ -1591,6 +1591,7 @@ body {
   visibility: hidden; }
 
 
-  .fab {
+  .fab,
+  .fas {
     margin-right: 5px;
   }
