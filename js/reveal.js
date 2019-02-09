@@ -218,7 +218,7 @@
 			viewDistance: 3,
 
 			// The display mode that will be used to show slides
-			display: 'block',
+			display: 'flex',
 
 			// Script dependencies to load
 			dependencies: []
